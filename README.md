@@ -85,10 +85,18 @@ $ mariadb --host 127.0.0.1 --port 3306 --user app_user -pPassword123! < data/sch
 The sample applications contained within this repository vary by language and ORM library. Check out the [src](src) directory for the options and more details!
 
 ## Support and Contribution <a name="support-contribution"></a>
+    
+Please feel free to submit PR's, issues or requests to this project project directly.
 
-Thanks so much for taking a look at these applications! 
+If you have any other questions, comments, or looking for more information on MariaDB please check out:
 
-If you have any questions, comments, or would like to contribute to this or future projects like this please reach out to us directly at [developers@mariadb.com](mailto:developers@mariadb.com) or on [Twitter](https://twitter.com/mariadb).
+* [MariaDB Developer Hub](https://mariadb.com/developers)
+* [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
+
+Or reach out to us diretly via:
+
+* [developers@mariadb.com](mailto:developers@mariadb.com)
+* [MariaDB Twitter](https://twitter.com/mariadb)
 
 ## License <a name="license"></a>
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)](https://opensource.org/licenses/MIT)
