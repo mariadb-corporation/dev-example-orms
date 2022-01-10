@@ -1,5 +1,9 @@
 # Object-Relational Mapping Samples
 
+⚠️ **[UNMAINTAINED]** This repository has been moved and is currently maintained [here](https://github.com/mariadb-developers/mariadb-orm-samples). ⚠️
+
+<br />
+
 This repository contains samples of [Object-Relational Mapping (ORM)](https://en.wikipedia.org/wiki/Object-relational_mapping) libraries used with [MariaDB](https://mariadb.com/products/).
 
 This README will walk you through the steps for getting the samples applications up and running using MariaDB. To ensure success, please follow the instructions in order.
